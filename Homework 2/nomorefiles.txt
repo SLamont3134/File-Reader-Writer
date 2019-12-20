@@ -1,0 +1,21 @@
+1: This is a simple program
+ 
+2: I will demonstrate how to take lines of text
+ 
+3: directly out of a file
+ 
+4: then number them line by line.
+ 
+5: This can be very useful
+ 
+6: in certain applications
+ 
+7: such as homework
+ 
+8: this kind of stuff is very interesting
+ 
+9: but ultimately is probably only a building block
+ 
+10: for more useful forms of storage such as binary
+ 
+11: but it is important to know none-the-less 

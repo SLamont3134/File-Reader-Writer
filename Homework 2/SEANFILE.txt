@@ -1,0 +1,11 @@
+This is a simple program
+I will demonstrate how to take lines of text
+directly out of a file
+then number them line by line.
+This can be very useful
+in certain applications
+such as homework
+this kind of stuff is very interesting
+but ultimately is probably only a building block
+for more useful forms of storage such as binary
+but it is important to know none-the-less
